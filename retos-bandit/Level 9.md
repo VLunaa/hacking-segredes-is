@@ -8,6 +8,7 @@
 - Port: 2220
 - User: bandit9
 - Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+- EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solución
 - Combine different commands, using " | " so that a "filter" can be made: "cat data.txt | strings | grep == "

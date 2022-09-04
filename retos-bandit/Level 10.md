@@ -11,7 +11,10 @@
 - G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
 ## Solución
-- We can use cat and -- decode to unencrypt the password. "cat data.txt | base64 --decode"
+- We can use cat and -- decode to unencrypt the password. 
 
+bandit10@bandit:~$ cat data.txt | base64 --decode
+The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+bandit10@bandit:~$
 ## Notas adicionales
 --decode to unencrypt
